@@ -1,0 +1,20 @@
+{
+  "name": "LocoFramework",
+  "version": "1.0.0",
+  "summary": "This is such a LOCO framework.",
+  "description": "loco framework that was made with KILOLOCO",
+  "homepage": "https://github.com/lianoq/LocoFramework",
+  "license": "MIT",
+  "authors": {
+    "LianoQ": "liano.quini@gmail.com"
+  },
+  "platforms": {
+    "ios": "11.0"
+  },
+  "source": {
+    "git": "https://github.com/lianoq/LocoFramework.git",
+    "tag": "1.0.0"
+  },
+  "source_files": "LocoFramework/**/*",
+  "swift_version": "4.0"
+}
